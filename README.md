@@ -1,72 +1,48 @@
-\# 💬 GUI-Based Chat Application
+# 💬 GUI-Based Chat Application
 
+A desktop-based **GUI Chat Application** developed using **Java Swing**, **TCP Socket Programming**, and **AES Encryption**.
 
+The application follows a **Client-Server architecture**, allowing users to exchange messages through a graphical interface.
 
-A simple and user-friendly \*\*GUI-based Chat Application\*\* developed using \*\*Java Swing\*\* and \*\*Socket Programming\*\*.
+---
 
+## ✨ Features
 
+- 🖥️ User-friendly graphical interface
+- 🔌 Client-Server communication
+- 🌐 TCP Socket Programming
+- 💬 Real-time message exchange
+- 🔐 AES-based message encryption
+- ⚡ Fast communication between Client and Server
+- ☕ Developed completely in Java
 
-This project demonstrates real-time communication between a client and server using Java networking concepts.
+---
 
+## 🛠️ Technologies Used
 
+| Technology | Purpose |
+|---|---|
+| Java | Core programming language |
+| Java Swing | Graphical User Interface |
+| Socket Programming | Client-Server communication |
+| TCP/IP | Network communication |
+| AES | Message encryption |
+| Visual Studio Code | Development environment |
 
-\## 🚀 Features
+---
 
-
-
-\- 🖥️ Graphical User Interface using Java Swing
-
-\- 🔌 Client-Server communication
-
-\- 🌐 Socket-based networking
-
-\- 🔐 Message encryption using AES
-
-\- 💬 Send and receive messages
-
-\- ⚡ Real-time communication
-
-\- 📚 Simple and easy-to-understand Java implementation
-
-
-
-\## 🛠️ Technologies Used
-
-
-
-\- \*\*Java\*\*
-
-\- \*\*Java Swing\*\*
-
-\- \*\*Socket Programming\*\*
-
-\- \*\*TCP/IP\*\*
-
-\- \*\*AES Encryption\*\*
-
-\- \*\*Visual Studio Code\*\*
-
-
-
-\## 📁 Project Structure
-
-
+## 🏗️ Project Structure
 
 ```text
-
 ChatApplication/
-
 │
-
-├── Client.java
-
-├── Server.java
-
 ├── AESUtil.java
-
+├── Client.java
+├── Server.java
+├── README.md
+├── .gitignore
 │
-
-└── .vscode/
-
-&#x20;   └── launch.json
-
+└── screenshots/
+    ├── client-interface.png
+    ├── server-running.png
+    └── chat-communication.png
