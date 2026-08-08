@@ -29,6 +29,11 @@ The application follows a **Client-Server architecture**, allowing users to exch
 | AES | Message encryption |
 | Visual Studio Code | Development environment |
 
+## 👨‍💻 Author
+
+**Sudhanshu Singh**
+
+GitHub: [@devsudhanshu-x](https://github.com/devsudhanshu-x)
 ---
 
 ## 🏗️ Project Structure
